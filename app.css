@@ -1,0 +1,15 @@
+.licenceTab, th, td {
+    border: 2px solid black;
+}
+
+.licenceTab {
+    width: 1000px;
+}
+
+thead, tbody {
+    text-align: center;
+}
+
+.restrictionsUl, .TestsUl li {
+    text-align: left;
+}
